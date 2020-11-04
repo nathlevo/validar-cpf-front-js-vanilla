@@ -1,4 +1,4 @@
-const URL="https://valida-cpf-nath.herokuapp.com/validacpf?cpf="
+const URL="https://validar-cpf-nath.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
